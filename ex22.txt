@@ -1,0 +1,31 @@
+print        write a string to stdout
++            plus
+-            minus
+/            divide
+*            multiply
+%            percent
+<            less than
+>            greater than
+<=           less than or equal
+>=           greater than or equal
+%s           format defintion for string
+%d           format definition for number
+%r           format for raw data
+\t           tab character in string
+\n           return character in string
+\\           \ in a string
+raw_input()  Read from stdin
+from         Keyword indicating library to import from
+import       Keyword indicting function to import
+argv         Function from sys library; returns command line as list
+sys          Library
+"""          Multi line string
+open         function to open file
+close        function to close file
+read         function to read file
+readline     function to read a line from file
+truncate     function to empty file
+write        function to write to file
+exists       function that tells if a file exists
+def          define a function
+return       return value of a function
